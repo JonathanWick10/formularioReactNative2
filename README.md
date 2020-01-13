@@ -1,8 +1,8 @@
-###Basic Form Width State
+# Basic Form Width State
 
-##To Run
+## To Run
 This project uses nodejs and npm
 ```npm install```
 
-###Install dependencies
+## Install dependencies
 ```expo start```
